@@ -39,4 +39,4 @@ The project represents an alpha version of a spaceship.
 
 ## sajtos krumpli
 
-Ich bin kartoffel. AAA
+Ich bin kartoffel. BBB
